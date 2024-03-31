@@ -15,3 +15,6 @@ Apresento a vocês o 'Finn', um jogo de plataforma simples que desenvolvi! Nele,
 https://larissacoutinhoo.github.io/GameFinn/
 
 
+[Assista ao vídeo do jogo](https://youtu.be/rnPoUSyNOhM)
+
+
